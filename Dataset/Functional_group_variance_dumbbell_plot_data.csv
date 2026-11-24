@@ -1,0 +1,106 @@
+"Layer","Field","NTrt","Nitrogen","Series","Estimate","Lower","Upper","x","xend"
+"link","Duolun","N0",0,NA,NA,NA,NA,1,1
+"point","Duolun","N0",0,"C3 variance",1,NA,NA,NA,NA
+"point","Duolun","N0",0,"C4 variance",1,NA,NA,NA,NA
+"point","Duolun","N0",0,"Community variance",1,NA,NA,NA,NA
+"point","Duolun","N0",0,"Forb variance",1,NA,NA,NA,NA
+"link","Duolun","N2",2,NA,NA,NA,NA,1.51691464011355,1.7897112133835
+"point","Duolun","N2",2,"C3 variance",1.7897112133835,NA,NA,NA,NA
+"point","Duolun","N2",2,"C4 variance",1.3102386668666,NA,NA,NA,NA
+"point","Duolun","N2",2,"Community variance",1.51691464011355,NA,NA,NA,NA
+"point","Duolun","N2",2,"Forb variance",1.1844235331382,NA,NA,NA,NA
+"link","Duolun","N8",8,NA,NA,NA,NA,2.91185087958912,6.14482760170958
+"point","Duolun","N8",8,"C3 variance",6.14482760170958,NA,NA,NA,NA
+"point","Duolun","N8",8,"C4 variance",1.67722457557769,NA,NA,NA,NA
+"point","Duolun","N8",8,"Community variance",2.91185087958912,NA,NA,NA,NA
+"point","Duolun","N8",8,"Forb variance",1.66969428141534,NA,NA,NA,NA
+"link","Duolun","N16",16,NA,NA,NA,NA,3.86107298924135,12.4097092558249
+"point","Duolun","N16",16,"C3 variance",12.4097092558249,NA,NA,NA,NA
+"point","Duolun","N16",16,"C4 variance",0.867501188083651,NA,NA,NA,NA
+"point","Duolun","N16",16,"Community variance",3.86107298924135,NA,NA,NA,NA
+"point","Duolun","N16",16,"Forb variance",1.85204344809258,NA,NA,NA,NA
+"link","Duolun","N32",32,NA,NA,NA,NA,4.08868426814798,12.929023600559
+"point","Duolun","N32",32,"C3 variance",12.929023600559,NA,NA,NA,NA
+"point","Duolun","N32",32,"C4 variance",0.942026387726462,NA,NA,NA,NA
+"point","Duolun","N32",32,"Community variance",4.08868426814798,NA,NA,NA,NA
+"point","Duolun","N32",32,"Forb variance",2.2303766003779,NA,NA,NA,NA
+"link","CDR B","A",0,NA,NA,NA,NA,1,1
+"point","CDR B","A",0,"C3 variance",1,NA,NA,NA,NA
+"point","CDR B","A",0,"C4 variance",1,NA,NA,NA,NA
+"point","CDR B","A",0,"Community variance",1,NA,NA,NA,NA
+"point","CDR B","A",0,"Forb variance",1,NA,NA,NA,NA
+"link","CDR B","B",1,NA,NA,NA,NA,1.887559918449,4.50866550930939
+"point","CDR B","B",1,"C3 variance",4.50866550930939,NA,NA,NA,NA
+"point","CDR B","B",1,"C4 variance",1.87905220712629,NA,NA,NA,NA
+"point","CDR B","B",1,"Community variance",1.887559918449,NA,NA,NA,NA
+"point","CDR B","B",1,"Forb variance",0.669910941941629,NA,NA,NA,NA
+"link","CDR B","C",2,NA,NA,NA,NA,2.20347997175557,9.78807613134595
+"point","CDR B","C",2,"C3 variance",9.78807613134595,NA,NA,NA,NA
+"point","CDR B","C",2,"C4 variance",2.91432524098635,NA,NA,NA,NA
+"point","CDR B","C",2,"Community variance",2.20347997175557,NA,NA,NA,NA
+"point","CDR B","C",2,"Forb variance",1.34701417097259,NA,NA,NA,NA
+"link","CDR B","D",3.4,NA,NA,NA,NA,4.65754852842773,20.6364115462171
+"point","CDR B","D",3.4,"C3 variance",20.6364115462171,NA,NA,NA,NA
+"point","CDR B","D",3.4,"C4 variance",6.59180453975116,NA,NA,NA,NA
+"point","CDR B","D",3.4,"Community variance",4.65754852842773,NA,NA,NA,NA
+"point","CDR B","D",3.4,"Forb variance",6.7134512467879,NA,NA,NA,NA
+"link","CDR B","E",5.4,NA,NA,NA,NA,10.2311354336645,53.2947013762719
+"point","CDR B","E",5.4,"C3 variance",53.2947013762719,NA,NA,NA,NA
+"point","CDR B","E",5.4,"C4 variance",13.5291116307484,NA,NA,NA,NA
+"point","CDR B","E",5.4,"Community variance",10.2311354336645,NA,NA,NA,NA
+"point","CDR B","E",5.4,"Forb variance",10.3761588721691,NA,NA,NA,NA
+"link","CDR B","F",9.5,NA,NA,NA,NA,9.70770418485678,80.7164868385259
+"point","CDR B","F",9.5,"C3 variance",80.7164868385259,NA,NA,NA,NA
+"point","CDR B","F",9.5,"C4 variance",11.4995798456845,NA,NA,NA,NA
+"point","CDR B","F",9.5,"Community variance",9.70770418485678,NA,NA,NA,NA
+"point","CDR B","F",9.5,"Forb variance",0.904532264414542,NA,NA,NA,NA
+"link","CDR B","G",17,NA,NA,NA,NA,12.2186909337534,109.02483697535
+"point","CDR B","G",17,"C3 variance",109.02483697535,NA,NA,NA,NA
+"point","CDR B","G",17,"C4 variance",13.7699358361546,NA,NA,NA,NA
+"point","CDR B","G",17,"Community variance",12.2186909337534,NA,NA,NA,NA
+"point","CDR B","G",17,"Forb variance",11.8851927165364,NA,NA,NA,NA
+"link","CDR B","H",27.2,NA,NA,NA,NA,14.6851356529399,149.098082320697
+"point","CDR B","H",27.2,"C3 variance",149.098082320697,NA,NA,NA,NA
+"point","CDR B","H",27.2,"C4 variance",12.8055442468397,NA,NA,NA,NA
+"point","CDR B","H",27.2,"Community variance",14.6851356529399,NA,NA,NA,NA
+"point","CDR B","H",27.2,"Forb variance",5.97705596642151,NA,NA,NA,NA
+"link","CDR C","A",0,NA,NA,NA,NA,1,1
+"point","CDR C","A",0,"C3 variance",1,NA,NA,NA,NA
+"point","CDR C","A",0,"C4 variance",1,NA,NA,NA,NA
+"point","CDR C","A",0,"Community variance",1,NA,NA,NA,NA
+"point","CDR C","A",0,"Forb variance",1,NA,NA,NA,NA
+"link","CDR C","B",1,NA,NA,NA,NA,0.533205238762621,0.682203379449734
+"point","CDR C","B",1,"C3 variance",0.682203379449734,NA,NA,NA,NA
+"point","CDR C","B",1,"C4 variance",0.620348949574673,NA,NA,NA,NA
+"point","CDR C","B",1,"Community variance",0.533205238762621,NA,NA,NA,NA
+"point","CDR C","B",1,"Forb variance",0.388023128294742,NA,NA,NA,NA
+"link","CDR C","C",2,NA,NA,NA,NA,1.34391280775455,1.21690739170314
+"point","CDR C","C",2,"C3 variance",1.21690739170314,NA,NA,NA,NA
+"point","CDR C","C",2,"C4 variance",1.02500066953071,NA,NA,NA,NA
+"point","CDR C","C",2,"Community variance",1.34391280775455,NA,NA,NA,NA
+"point","CDR C","C",2,"Forb variance",1.32604174656229,NA,NA,NA,NA
+"link","CDR C","D",3.4,NA,NA,NA,NA,1.13634502043561,3.61259769370864
+"point","CDR C","D",3.4,"C3 variance",3.61259769370864,NA,NA,NA,NA
+"point","CDR C","D",3.4,"C4 variance",0.48611156941344,NA,NA,NA,NA
+"point","CDR C","D",3.4,"Community variance",1.13634502043561,NA,NA,NA,NA
+"point","CDR C","D",3.4,"Forb variance",0.867870183588857,NA,NA,NA,NA
+"link","CDR C","E",5.4,NA,NA,NA,NA,1.02700638541652,3.96453089430056
+"point","CDR C","E",5.4,"C3 variance",3.96453089430056,NA,NA,NA,NA
+"point","CDR C","E",5.4,"C4 variance",0.427911202962673,NA,NA,NA,NA
+"point","CDR C","E",5.4,"Community variance",1.02700638541652,NA,NA,NA,NA
+"point","CDR C","E",5.4,"Forb variance",1.14774235011069,NA,NA,NA,NA
+"link","CDR C","F",9.5,NA,NA,NA,NA,1.85179989613765,8.01135294875573
+"point","CDR C","F",9.5,"C3 variance",8.01135294875573,NA,NA,NA,NA
+"point","CDR C","F",9.5,"C4 variance",0.265667158318335,NA,NA,NA,NA
+"point","CDR C","F",9.5,"Community variance",1.85179989613765,NA,NA,NA,NA
+"point","CDR C","F",9.5,"Forb variance",1.90638979175189,NA,NA,NA,NA
+"link","CDR C","G",17,NA,NA,NA,NA,3.03233156423779,14.6530449834804
+"point","CDR C","G",17,"C3 variance",14.6530449834804,NA,NA,NA,NA
+"point","CDR C","G",17,"C4 variance",0.667519553261391,NA,NA,NA,NA
+"point","CDR C","G",17,"Community variance",3.03233156423779,NA,NA,NA,NA
+"point","CDR C","G",17,"Forb variance",2.13640755996423,NA,NA,NA,NA
+"link","CDR C","H",27.2,NA,NA,NA,NA,3.79030381231288,15.1248084253977
+"point","CDR C","H",27.2,"C3 variance",15.1248084253977,NA,NA,NA,NA
+"point","CDR C","H",27.2,"C4 variance",0.872489842607073,NA,NA,NA,NA
+"point","CDR C","H",27.2,"Community variance",3.79030381231288,NA,NA,NA,NA
+"point","CDR C","H",27.2,"Forb variance",4.38064509386463,NA,NA,NA,NA
